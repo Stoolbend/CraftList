@@ -1,0 +1,6 @@
+name: CraftList
+main: me.Stoolbend.CraftList.CraftList
+version: 1.0.1 Alpha
+commands:
+   clist:
+      description: Allows management of the CraftList Database

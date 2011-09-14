@@ -1,0 +1,14 @@
+1.0.1
+-----
+Bugfixes:
+#1 - /clist myapp does not show correct data
+
+
+1.0 Alpha
+---------
+Features:
+o /clist apps - List the amount of new applications
+o /clist myapp - Lists information about current players apps
+
+Known bugs:
+1# - /clist myapp does not show correct data
